@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/xlyti/Black-list-by-Xlyti/refs/heads/main/EUROPE_OBHOD.json
+https://raw.githubusercontent.com/xlyti/Black-list-by-Xlyti/refs/heads/main/SG_OBHOD.json
+https://raw.githubusercontent.com/xlyti/Black-list-by-Xlyti/refs/heads/main/OTHER_OBHOD.json
